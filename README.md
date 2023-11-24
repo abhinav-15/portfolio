@@ -1,2 +1,2 @@
-Thsis file is for the my portfolio Info
+This file is for the portfolio Info
 Info update
